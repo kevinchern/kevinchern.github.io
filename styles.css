@@ -5,3 +5,8 @@ blockquote {
     width:auto;
     display:table;
 }
+
+html, body {
+    cursor: url("swinub.cur"), default;
+    /* https://www.cursors-4u.com/cursor/2009/02/27/swinub-pokemon.html */
+}
