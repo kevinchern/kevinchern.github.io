@@ -1,5 +1,5 @@
 blockquote {
-    max-width:500px;
+    max-width:392px;
     text-align: center; 
     margin:0 auto;
     width:auto;
@@ -9,4 +9,6 @@ blockquote {
 html, body {
     cursor: url("swinub.cur"), default;
     /* https://www.cursors-4u.com/cursor/2009/02/27/swinub-pokemon.html */
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    /* https://stackoverflow.com/questions/32660748/how-to-use-apples-new-san-francisco-font-on-a-webpage */
 }
