@@ -7,7 +7,7 @@ blockquote {
 }
 
 html, body {
-    cursor: url("snorlax.cur"), default;
+    cursor: url("snorlax.png"), default;
     /* https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2931286396332417269552354709138297616489174869482621620029717954478118797313 */
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     /* https://stackoverflow.com/questions/32660748/how-to-use-apples-new-san-francisco-font-on-a-webpage */
